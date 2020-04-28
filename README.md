@@ -13,3 +13,6 @@ The main motive behind this program is to demonstrate the PLC controllers functi
  - Click on `Retrive`.
  - Browse for file and save it in your prefered location.
 
+### Disclaimer
+ - The project is still in development phase and needs to be thoroughly tested.
+ - As this project is only meant for demonstration of programming language, standard tag assingnment is not done yet. 
